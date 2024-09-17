@@ -1,2 +1,2 @@
 # terraform-basic-advance
-terraform-basic-advance
+We are dedicated to offering a comprehensive learning journey for Terraform, covering everything from the fundamentals to advanced concepts. Additionally, we are committed to developing projects that provide practical insights into creating both basic and advanced infrastructure using Terraform. Our goal is to provide hands-on experience and thorough understanding of Terraform's capabilities.
